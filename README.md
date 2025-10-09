@@ -70,6 +70,13 @@ I love turning ideas into reality through clean code, scalable architecture, and
 
 ---
 
+### 🌱 Dynamic Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inioluwa-1&theme=react-dark&bg_color=1a1b27&hide_border=true" alt="inioluwa-1's Contribution Graph" />
+</p>
+
+---
+
 ### 🌍 Connect With Me
 
 <p align="center">
